@@ -357,25 +357,17 @@ AI-Voice-Controlled-Smart-Wheelchair
 
 ├── Hardware/
 
-├── Software/
+├── src/
 
 │      ├── RaspberryPi/
 
 │      ├── ESP32/
-
-│
-
-├── AI_Model/
 
 ├── Documentation/
 
 ├── Demo/
 
 ├── README.md
-
-├── requirements.txt
-
-└── LICENSE
 ```
 
 ---
