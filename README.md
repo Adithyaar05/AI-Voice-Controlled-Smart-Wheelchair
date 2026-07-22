@@ -487,9 +487,9 @@ python main.py
 | Name |
 |------|
 | Chezhiyan M |
+| Adithya R |
 | Anish S |
 | Subramanian M |
-| Adithya R |
 
 ---
 
