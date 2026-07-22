@@ -372,34 +372,6 @@ AI-Voice-Controlled-Smart-Wheelchair
 
 ---
 
-# 🚀 Installation
-
-Clone Repository
-
-```bash
-git clone https://github.com/chezhiyan11/AI-Voice-Controlled-Smart-Wheelchair.git
-```
-
-Move to Project
-
-```bash
-cd AI-Voice-Controlled-Smart-Wheelchair
-```
-
-Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run
-
-```bash
-python main.py
-```
-
----
-
 # 🎮 Voice Commands
 
 | Voice Command | Action |
