@@ -486,9 +486,9 @@ python main.py
 
 | Name |
 |------|
-| Chezhiyan M |
 | Adithya R |
 | Anish S |
+| Chezhiyan M|
 | Subramanian M |
 
 ---
@@ -509,6 +509,6 @@ python main.py
 
 ## ⭐ If you like this project, consider giving it a Star!
 
-Made with ❤️ by **Chezhiyan M & Team**
+Made with ❤️ by **Adithya R & Team**
 
 </div>
